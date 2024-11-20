@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # responsi_baru
 
 A new Flutter project.
@@ -14,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# responsi
+
+A new Flutter project.
+# Responsi_SI-C_124220118
+>>>>>>> e815dd6da799761ba3c145966cd3ca86388dac05

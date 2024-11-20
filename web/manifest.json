@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "responsi_baru",
     "short_name": "responsi_baru",
+=======
+    "name": "responsi",
+    "short_name": "responsi",
+>>>>>>> e815dd6da799761ba3c145966cd3ca86388dac05
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

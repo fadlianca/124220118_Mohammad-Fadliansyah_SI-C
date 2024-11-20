@@ -6,7 +6,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.responsi_baru"
+=======
+    namespace = "com.example.responsi"
+>>>>>>> e815dd6da799761ba3c145966cd3ca86388dac05
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +25,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.responsi_baru"
+=======
+        applicationId = "com.example.responsi"
+>>>>>>> e815dd6da799761ba3c145966cd3ca86388dac05
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="responsi_baru"
+=======
+        android:label="responsi"
+>>>>>>> e815dd6da799761ba3c145966cd3ca86388dac05
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

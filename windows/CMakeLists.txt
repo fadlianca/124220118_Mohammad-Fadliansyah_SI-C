@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(responsi_baru LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "responsi_baru")
+=======
+project(responsi LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "responsi")
+>>>>>>> e815dd6da799761ba3c145966cd3ca86388dac05
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

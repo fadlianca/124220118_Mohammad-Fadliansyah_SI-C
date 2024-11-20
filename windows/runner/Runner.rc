@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "responsi_baru" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "responsi_baru" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "responsi_baru.exe" "\0"
             VALUE "ProductName", "responsi_baru" "\0"
+=======
+            VALUE "FileDescription", "responsi" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "responsi" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "responsi.exe" "\0"
+            VALUE "ProductName", "responsi" "\0"
+>>>>>>> e815dd6da799761ba3c145966cd3ca86388dac05
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
